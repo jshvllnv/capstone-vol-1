@@ -4,7 +4,7 @@ import './App.css';
 import 'react-toastify/dist/ReactToastify.css';
 import { ToastContainer, toast } from 'react-toastify';
 
-
+//kupal kaba boss?
 
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 
